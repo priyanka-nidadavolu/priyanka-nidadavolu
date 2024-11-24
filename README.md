@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I am a **software engineer** with a strong passion
 - **Internships**  
   - **Samsung Prism:** Developed a multilingual dataset to improve speech recognition accuracy by 10%.  
   - **IBM:** Automated checks, integrating Django and Spring Boot with PostgreSQL.
+  - **AICTE:** Deployed a website on Amazon EC2 using Apache HTTP Server.
 
 ## 📚 Educational Background
 - **B.Tech in Computer Science**  
